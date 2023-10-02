@@ -10,18 +10,18 @@ Anomaly detection is a critical aspect of data analysis that involves identifyin
 
 The dataset we'll be working with is the Transaction Anomalies dataset. The dataset contains information about various financial transactions, each represented by several features
 
-Transaction_ID: Unique identifier for each transaction.
-Transaction_Amount: The monetary value of the transaction.
-Transaction_Volume: The quantity or number of items/actions involved in the transaction.
-Average_Transaction_Amount: The historical average transaction amount for the account.
-Frequency_of_Transactions: How often transactions are typically performed by the account.
-Time_Since_Last_Transaction: Time elapsed since the last transaction.
-Day_of_Week: The day of the week when the transaction occurred.
-Time_of_Day: The time of day when the transaction occurred.
-Age: Age of the account holder.
-Gender: Gender of the account holder.
-Income: Income of the account holder.
-Account_Type: Type of account (e.g., personal, business).
+1. Transaction_ID: Unique identifier for each transaction.
+2. Transaction_Amount: The monetary value of the transaction.
+3. Transaction_Volume: The quantity or number of items/actions involved in the transaction.
+4. Average_Transaction_Amount: The historical average transaction amount for the account.
+5. Frequency_of_Transactions: How often transactions are typically performed by the account.
+6. Time_Since_Last_Transaction: Time elapsed since the last transaction.
+7. Day_of_Week: The day of the week when the transaction occurred.
+8. Time_of_Day: The time of day when the transaction occurred.
+9. Age: Age of the account holder.
+10. Gender: Gender of the account holder.
+11. Income: Income of the account holder.
+12. Account_Type: Type of account (e.g., personal, business).
 
 ## Structure
 
